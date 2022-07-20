@@ -6,7 +6,7 @@ Te invito a compartir esta experiencia conmigo
 
 Librerías recomendadas:
 - Librerías para ciencias de datos
-<p><img align="center" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" /></p>
+<p><img align="center" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" /></p>
 
     - 📫 Contáctame en: fbarra@unsa.edu.pe
 
