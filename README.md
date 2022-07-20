@@ -3,7 +3,7 @@ En este primer portafolio compartiré mis conocimientos aprendidos, en el primer
 de la premier League... Te invito a compartir esta experiencia conmigo!
 Librerías recomendadas:
 - Librerías para ciencias de datos
-<p><img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" /></p>
+<p><img align="center" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" /></p>
 
     - 📫 Contáctame en: fbarra@unsa.edu.pe
 
