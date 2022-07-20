@@ -2,7 +2,7 @@
 
 En este primer portafolio compartiré mis conocimientos aprendidos, podrás encontrar diferentes bases de datos y archivos elaborados de forma personalizada. De la misma forma, el manejo, limpieza, análisis exploratorio y visualización de gráficas en cada uno. 🧐
 
-### Contenido:
+### CONTENIDO:
 1. En el primer archivo realizaremos un análisis de datos con pandas sobre el jugadores de la Premier League.
 
 ### ¡Te invito a compartir esta experiencia conmigo!
