@@ -1,6 +1,6 @@
-## Bienvenid@ nuevamente!
+## Bienvenid@ nuevamente! 💫
 
-En este primer portafolio compartiré mis conocimientos aprendidos, podrás encontrar diferentes bases de datos y archivos elaborados de forma personalizada. De la misma forma, el manejo, limpieza, análisis exploratorio y visualización de gráficas en cada uno. 💫
+En este primer portafolio compartiré mis conocimientos aprendidos, podrás encontrar diferentes bases de datos y archivos elaborados de forma personalizada. De la misma forma, el manejo, limpieza, análisis exploratorio y visualización de gráficas en cada uno. 🧐
 
 ### Contenido:
 1. En el primer archivo realizaremos un análisis de datos con pandas sobre el jugadores de la Premier League.
